@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "GPGPU",
+			"path": ".."
+		},
+		{
+			"name": "TDs",
+			"path": "../../../../../Downloads/TDs"
+		},
+		{
+			"name": "code_TP",
+			"path": "../../../../../Downloads/code_TP"
+		}
+	],
+	"settings": {}
+}
